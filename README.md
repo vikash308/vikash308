@@ -43,13 +43,12 @@ const vikash = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧠 DSA
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vikash308&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+```
+200+ problems solved in Java
+Topics: Arrays · Linked Lists · Trees · Stacks · Queues · Sorting · Recursion
+```
 
 ---
 
